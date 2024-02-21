@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/SandH/static/css/main.03ea645e.css",
+    "main.js": "/SandH/static/js/main.622236b1.js",
+    "static/media/cisco.png": "/SandH/static/media/cisco.64fd65c5146ce9ef5d25.png",
+    "static/media/avasoft.png": "/SandH/static/media/avasoft.907a2c84c85cdde7c268.png",
+    "static/media/accenture.png": "/SandH/static/media/accenture.8082a4b7dc047f0fc408.png",
+    "static/media/Physics1.jpg": "/SandH/static/media/Physics1.950ed627adfedea123a9.jpg",
+    "static/media/Chemistry6.jpg": "/SandH/static/media/Chemistry6.26aa2290df2d293cf37f.jpg",
+    "static/media/Chemistry1.jpg": "/SandH/static/media/Chemistry1.0352d5a39d7476cd0139.jpg",
+    "static/media/bus.jpg": "/SandH/static/media/bus.3cdfdd762da045dfce1f.jpg",
+    "static/media/lab.jpg": "/SandH/static/media/lab.38c38568985d97b2d6af.jpg",
+    "static/media/Computer centre3.jpg": "/SandH/static/media/Computer centre3.ea79539ab85def5a1a06.jpg",
+    "static/media/Computer centre1.jpg": "/SandH/static/media/Computer centre1.d729b791c7728e324f75.jpg",
+    "static/media/wipro.png": "/SandH/static/media/wipro.3157467e6aeb1b688988.png",
+    "static/media/food.png": "/SandH/static/media/food.4b32153b0da9cbb35e1b.png",
+    "static/media/cognizant.png": "/SandH/static/media/cognizant.397dd770c1dcbea73f72.png",
+    "static/media/mindtree.png": "/SandH/static/media/mindtree.d55875fdec37d3afc459.png",
+    "static/media/post.jpeg": "/SandH/static/media/post.103d4e902cb51055377d.jpeg",
+    "static/media/lab.jpeg": "/SandH/static/media/lab.73345a23de2fe09b3683.jpeg",
+    "static/media/adobe.png": "/SandH/static/media/adobe.d41725c3e13f080f6fee.png",
+    "static/media/Group 54.png": "/SandH/static/media/Group 54.c3c43673601fa917a624.png",
+    "static/media/zoho.png": "/SandH/static/media/zoho.a4800c71e2197a1ef657.png",
+    "static/media/Group 59 (1).png": "/SandH/static/media/Group 59 (1).46b4fbd801e0d358f66b.png",
+    "static/media/Group 53.png": "/SandH/static/media/Group 53.49b650c9c79466925992.png",
+    "static/media/kanini.png": "/SandH/static/media/kanini.8f57197e37b633b8edf3.png",
+    "static/media/Group 61 (1).png": "/SandH/static/media/Group 61 (1).c2fe54394cf9eeade265.png",
+    "static/media/Group 58.png": "/SandH/static/media/Group 58.a3d2c324ad1741183080.png",
+    "static/media/Group 64 (1).png": "/SandH/static/media/Group 64 (1).4b2baefc8a12286da617.png",
+    "static/media/Group 52.png": "/SandH/static/media/Group 52.5ef75d88671c6331d9ee.png",
+    "index.html": "/SandH/index.html",
+    "main.03ea645e.css.map": "/SandH/static/css/main.03ea645e.css.map",
+    "main.622236b1.js.map": "/SandH/static/js/main.622236b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03ea645e.css",
+    "static/js/main.622236b1.js"
+  ]
+}
